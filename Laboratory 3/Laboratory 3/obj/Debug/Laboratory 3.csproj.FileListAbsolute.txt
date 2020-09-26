@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.exe.config
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.exe
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.pdb
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory_3.Form1.resources
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory_3.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.exe
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.pdb
+C:\For system\tasks\тест\навч\Csharp labs\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.exe.config
+C:\For system\tasks\тест\навч\Csharp labs\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.exe
+C:\For system\tasks\тест\навч\Csharp labs\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.pdb
+C:\For system\tasks\тест\навч\Csharp labs\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.csprojAssemblyReference.cache
+C:\For system\tasks\тест\навч\Csharp labs\Laboratory 3\Laboratory 3\obj\Debug\Laboratory_3.Form1.resources
+C:\For system\tasks\тест\навч\Csharp labs\Laboratory 3\Laboratory 3\obj\Debug\Laboratory_3.Properties.Resources.resources
+C:\For system\tasks\тест\навч\Csharp labs\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.csproj.GenerateResource.cache
+C:\For system\tasks\тест\навч\Csharp labs\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.exe
+C:\For system\tasks\тест\навч\Csharp labs\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.pdb
